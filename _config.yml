@@ -31,7 +31,7 @@ description: hello                        # used by seo meta and the atom feed
 url: 'https://bymin0.github.io'
 
 github:
-  username: min             # change to your github username
+  username: bymin0             # change to your github username
 
 #twitter:
 #  username: twitter_username            # change to your twitter username
