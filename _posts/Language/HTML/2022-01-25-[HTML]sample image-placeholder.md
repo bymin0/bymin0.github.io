@@ -33,7 +33,7 @@ Aaron Burden 님의 사진, 출처: [Pexels](https://www.pexels.com/ko-kr/photo/
 ```
 
 - 결과
-  - <img src="../../../assets/imgs/html_01_00.jpg">
+  - <img src="../../../assets/imgs/html_01_00.jpg"><br>
 Bekir Donmez 님의 사진, 출처: [Pexels](https://www.pexels.com/ko-kr/photo/9995685/)
 ## ▶ alt(이미지 오류)
 - ```html
