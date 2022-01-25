@@ -1,5 +1,5 @@
 ---
-title: [HTML]Sample image-placeholder
+title: HTML)Sample image-placeholder
 date: 2022-01-25 23:55:55 +0900
 categories: [Language, HTML]
 tags: [HTML, img]
