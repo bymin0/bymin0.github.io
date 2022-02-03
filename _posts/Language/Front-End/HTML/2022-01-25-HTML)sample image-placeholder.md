@@ -1,7 +1,7 @@
 ---
 title: HTML)Sample image-placeholder
 date: 2022-01-25 23:55:55 +0900
-categories: [Language, HTML]
+categories: [Language, Front-End]
 tags: [HTML, img]
 ---
 
