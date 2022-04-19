@@ -2,7 +2,7 @@
 
 -
   type: github
-  icon: 'fa-brands fa-github-alt'
+  icon: 'fab fa-github-alt'
 -
   type: twitter
   icon: 'fab fa-twitter'
