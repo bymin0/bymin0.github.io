@@ -5,5 +5,5 @@ order: 4
 ---
 
 
-Portfolio site: [bymin.shop(임시)](http://http://bymin.shop/)
+Portfolio site: [bymin.shop(임시)](http://bymin.shop/)
  - It still update
